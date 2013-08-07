@@ -30,6 +30,8 @@ of time the access is private.
 
 * Temporal distribution of communication events.
 
+* Automatic detection of sharing patterns
+
 Performance Improvement
 -------------------------------------------------------------------------------
 Sampling.
